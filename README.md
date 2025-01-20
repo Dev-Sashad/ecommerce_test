@@ -1,16 +1,20 @@
 # ecommerce_test
 
-A new Flutter project.
+An ecommerce application UI design implementation.
 
-## Getting Started
+Tools
+1. Framework -  Flutter 
+2. Statemanagement - Riverpod
+3. Platform support - IOS & ANDROID
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ANDROID TEST
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/1d60f14f-a33f-4f2f-96a5-22b87e51356d
+
+
+IOS TEST 
+
+https://github.com/user-attachments/assets/7dfba85a-41a7-48ce-ba06-518df8f10451
+
